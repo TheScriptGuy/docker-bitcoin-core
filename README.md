@@ -5,4 +5,4 @@ There is much concern about running a bitcoin core node from other docker contai
 
 This is an attempt to compile the bitcoin-core binaries from [source code](https://github.com/bitcoin/bitcoin) and have them run within a docker container to make it more portable and easier to upgrade between versions.
 
-For more information on how to work with these scripts, refer to this blog [post](https://nolanrumble.com/security/?p=176)
+For more information on how to work with these scripts, refer to this blog [post](https://blog.nolanrumble.com/2023/08/19/building-a-portable-docker-bitcoin-core-node/)
